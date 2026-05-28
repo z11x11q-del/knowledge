@@ -1,0 +1,49 @@
+doubao_realtime_voice/README.md
+  bf72fe79cd47eb8e 3
+xp_project/车机语音助手后端架构演进展望.md
+  bf72fe79cd47eb8e 4,224
+xp_project/闲聊智能体全链路设计.md
+  6354ac7b272031b8 3-5,14-33,36-58,62-67,79-85,89-97,99-102,105-106,116-117,119-120,127-139,141-144,148-150,152-153,156,167-189,193-194,196-197,201-210,216-219,223,225-226,229-230,240-246,253-266,270-277,279-283,285-290,292-295,298-299,309-315,319-325,329-333,335-340,342-345,355-369,373-388,391-392,402-413,417-419,429-433,443-452,456-466,468-470,480-485,487-490,492-496,500-506,509-510,788,792-793
+  bf72fe79cd47eb8e 6,104,155,228,297,390,508
+life_work/个人发展规划.md
+  bf72fe79cd47eb8e 331
+lbs/13-准备建议.md
+  bf72fe79cd47eb8e 377
+ernie_web/项目停止迭代的回答话术.md
+  bf72fe79cd47eb8e 89
+xp_project/架构升级原因与收益.md
+  bf72fe79cd47eb8e 3,11,111,113,115,143,207,211,227,237,270,276,278
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.22",
+  "base_commit_sha": "25da858b1267166672bd03e3bb28d1a8f8bfe0b4",
+  "prompts": {
+    "6354ac7b272031b8": {
+      "agent_id": {
+        "tool": "qoder",
+        "id": "8afa9356-298b-4ddc-8dd5-168162ccbea6",
+        "model": "qoder-model"
+      },
+      "human_author": "zhangx98",
+      "messages": [],
+      "total_additions": 887,
+      "total_deletions": 28,
+      "accepted_lines": 326,
+      "overriden_lines": 82
+    },
+    "bf72fe79cd47eb8e": {
+      "agent_id": {
+        "tool": "qoder",
+        "id": "0a559b8f-ec0f-4c65-98ca-ff1f98a1f7f7",
+        "model": "qoder-model"
+      },
+      "human_author": "zhangx98",
+      "messages": [],
+      "total_additions": 1145,
+      "total_deletions": 1145,
+      "accepted_lines": 765,
+      "overriden_lines": 19
+    }
+  }
+}
