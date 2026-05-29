@@ -1,0 +1,25 @@
+xp_project/闲聊智能体/README.md
+  6354ac7b272031b8 1,3-4,6,8,10-42,44,46-52
+xp_project/闲聊智能体/02-预处理层/02-Query分类.md
+  6354ac7b272031b8 3,5,7,9,11-14,16,18,22,24,26,28-32,34,36,38,40-43,45,47,49,51,53-57,59,61,63-66,68,70-73,75,77,79,81,83-96,98,100,125-128,130,132,134,136-139,141,143-145,147,149,151,153-156,158,160,162,164,166,170,172-173,175-176,178,181,184,190-191,193,196
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.22",
+  "base_commit_sha": "3f01edb45d3c3ac1256799c8b155be74ff7af229",
+  "prompts": {
+    "6354ac7b272031b8": {
+      "agent_id": {
+        "tool": "qoder",
+        "id": "8afa9356-298b-4ddc-8dd5-168162ccbea6",
+        "model": "qoder-model"
+      },
+      "human_author": "zhangx98",
+      "messages": [],
+      "total_additions": 391,
+      "total_deletions": 114,
+      "accepted_lines": 150,
+      "overriden_lines": 12
+    }
+  }
+}
