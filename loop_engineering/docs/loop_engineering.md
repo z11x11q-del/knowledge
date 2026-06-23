@@ -1,3 +1,9 @@
+---
+tags: [loop-engineering, AI编码, 资料]
+status: 📦
+updated: 2026-06-23
+---
+
 # Loop Engineering：从微反馈回路到自进化循环
 
 > 原文链接：<https://mp.weixin.qq.com/s/OebIEJmc6Ls2IS_TO2XXMA>

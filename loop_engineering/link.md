@@ -1,3 +1,9 @@
+---
+tags: [loop-engineering, AI编码, 索引]
+status: ✅
+updated: 2026-06-23
+---
+
 # Links
 
 > 本文件用于记录 `loop_engineering` 目录下需要关注的链接。
@@ -9,7 +15,7 @@
 | 2 | Prompt 该退环境了，未来属于 Loop Engineering（Khazix @ X） | <https://x.com/Khazix0918/status/2066394718519656909> | [x_khazix0918_prompt_should_retire.md](./docs/x_khazix0918_prompt_should_retire.md) | ✅ | —（中文原文） | 2026-06-16 |
 | 3 | Loop engineering for AI coding agents（Kyenai Guide） | <https://www.kyenai.com/guides/loop-engineering-ai-coding-agents?utm_source=chatgpt.com> | [kyenai_loop_engineering_guide.md](./docs/kyenai_loop_engineering_guide.md) | ✅ | [中文](./docs/kyenai_loop_engineering_guide_cn.md) | 2026-06-16 |
 | 4 | Loop Engineering: Designing Systems That Prompt AI Agents（Lushbinary） | <https://lushbinary.com/blog/loop-engineering-ai-coding-agents-guide/?utm_source=chatgpt.com> | [lushbinary_loop_engineering_guide.md](./docs/lushbinary_loop_engineering_guide.md) | ✅ | [中文](./docs/lushbinary_loop_engineering_guide_cn.md) | 2026-06-16 |
-| 5 | Loop Engineering（loopengineering.lol 站点） | <https://loopengineering.lol/?utm_source=chatgpt.com> | [loopengineering_lol.md](./docs/loopengineering_lol.md) | ✅ | [中文](./docs/loopengineering_lol_cn.md) | 2026-06-16 |
+| 5 | Loop Engineering（loopengineering.lol 站点） | <https://loopengineering.lol/?utm_source=chatgpt.com> | [loop_engineering_lol.md](./docs/loop_engineering_lol.md) | ✅ | [中文](./docs/loop_engineering_lol_cn.md) | 2026-06-16 |
 
 ---
 
@@ -34,8 +40,8 @@ loop_engineering/
     ├── kyenai_loop_engineering_guide_cn.md  # 中文翻译
     ├── lushbinary_loop_engineering_guide.md # 英文原文
     ├── lushbinary_loop_engineering_guide_cn.md # 中文翻译
-    ├── loopengineering_lol.md               # 英文原文
-    └── loopengineering_lol_cn.md            # 中文翻译
+    ├── loop_engineering_lol.md               # 英文原文
+    └── loop_engineering_lol_cn.md            # 中文翻译
 ```
 
 ## 使用约定

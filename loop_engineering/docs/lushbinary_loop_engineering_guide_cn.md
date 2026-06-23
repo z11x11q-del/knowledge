@@ -1,3 +1,9 @@
+---
+tags: [loop-engineering, AI编码, 资料]
+status: 📦
+updated: 2026-06-23
+---
+
 # 循环工程：设计提示 AI Agent 的系统
 
 > 原文链接：<https://lushbinary.com/blog/loop-engineering-ai-coding-agents-guide/?utm_source=chatgpt.com>

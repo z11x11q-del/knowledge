@@ -1,3 +1,9 @@
+---
+tags: [loop-engineering, AI编码, 资料]
+status: 📦
+updated: 2026-06-23
+---
+
 # AI 编程 Agent 的循环工程（Loop Engineering）
 
 > 原文链接：<https://www.kyenai.com/guides/loop-engineering-ai-coding-agents?utm_source=chatgpt.com>

@@ -1,3 +1,9 @@
+---
+tags: [loop-engineering, AI编码, 资料]
+status: 📦
+updated: 2026-06-23
+---
+
 # Loop Engineering
 
 > 原文链接：<https://loopengineering.lol/?utm_source=chatgpt.com>

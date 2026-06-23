@@ -1,3 +1,9 @@
+---
+tags: [loop-engineering, AI编码, 资料]
+status: 📦
+updated: 2026-06-23
+---
+
 # Prompt 该退环境了，未来属于 Loop Engineering
 
 > 原文链接：<https://x.com/Khazix0918/status/2066394718519656909>

@@ -1,8 +1,14 @@
+---
+tags: [loop-engineering, AI编码, 资料]
+status: 📦
+updated: 2026-06-23
+---
+
 # 循环工程（Loop Engineering）
 
 > 原文链接：<https://loopengineering.lol/?utm_source=chatgpt.com>
 > 中文翻译：基于 2026-06-16 抓取的英文版本
-> 英文原文档：[loopengineering_lol.md](./loopengineering_lol.md)
+> 英文原文档：[loop_engineering_lol.md](./loop_engineering_lol.md)
 
 ---
 
