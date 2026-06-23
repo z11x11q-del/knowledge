@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782205446783-noq91vjb2",
+  "providerId": "claude",
+  "title": "Organize Obsidian vault with frontmatter and cl...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782205446784,
+  "updatedAt": 1782206185692,
+  "lastResponseAt": 1782206185692,
+  "sessionId": "4c7d716f-42b7-4396-ace3-8f2bcce95c32",
+  "providerState": {
+    "providerSessionId": "4c7d716f-42b7-4396-ace3-8f2bcce95c32"
+  },
+  "currentNote": "lbs/02-POI数据与检索.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 10971,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 63281,
+    "contextWindow": 1000000,
+    "contextTokens": 74252,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
+  }
+}

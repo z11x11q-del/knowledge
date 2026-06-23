@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "b93eb59bc9a0d7fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d45ffa32695266e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32772eb35f9e9d39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "待发展能力/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de66cce3ae08f2fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "775cca23b456ada9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4d209404d13646f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f7e794d58b1de948",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a18077af8cd177d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b6bdb455665215b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd3d841ef4339c5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f25ed789b40a2e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lbs/02-POI数据与检索.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "02-POI数据与检索 的反向链接列表"
+            }
+          },
+          {
+            "id": "0add76176eb2b831",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "lbs/02-POI数据与检索.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "02-POI数据与检索 的出链列表"
+            }
+          },
+          {
+            "id": "2c87043d3bdd1bf4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d528db5e0f6f60d8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f9f8347e7f752ba5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lbs/02-POI数据与检索.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "02-POI数据与检索 的大纲"
+            }
+          },
+          {
+            "id": "0dc3204988344ecc",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 726.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "32772eb35f9e9d39",
+  "lastOpenFiles": [
+    "待发展能力/README.md",
+    "待发展能力/index.md",
+    "lbs/02-POI数据与检索.md",
+    "expression/整理.md.tmp.10484.661c2ed44996",
+    "xp_project/闲聊智能体/闲聊智能体全链路设计.md.tmp.10484.8d5c13b2df46",
+    "car_voice_wiki/02-整体架构.md.tmp.10484.2443e05e2ef6",
+    "loop_engineering/docs/loop_engineering_lol_cn.md.tmp.10484.5f78c929b5ad",
+    "loop_engineering/README.md.tmp.10484.b3564d65bcd0",
+    "loop_engineering/link.md.tmp.10484.282cc8cb45e4",
+    "loop_engineering/link.md.tmp.10484.795f13c998b9",
+    "loop_engineering/docs/loop_engineering_lol_cn.md",
+    "loop_engineering/docs/loop_engineering_lol.md",
+    "随手记/README.md",
+    "随手记/README.md.tmp.10484.041b5eb5ad70",
+    "待发展能力/README.md.tmp.10484.99b0e5071294",
+    "文心Web/README.md",
+    "loop_engineering/README.md",
+    "life_work/README.md",
+    "life_work/README.md.tmp.10484.302881260276",
+    "lbs/README.md",
+    "xp_project/README.md",
+    "expression/README.md",
+    "文心Web/项目停止迭代的回答话术.md",
+    "lbs/01-地理位置服务基础概念.md",
+    "car_voice_wiki/README.md",
+    "xp_project/车机语音助手后端架构演进展望.md",
+    "car_voice_wiki/03-语音能力/00-交互判决共用骨架.md",
+    "car_voice_wiki/03-语音能力/01-打断能力.md"
+  ]
+}
